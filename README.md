@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishal-ideyalabs
-- 👀 I’m interested in React Js
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning React Js
 
 <!---
 vishal-ideyalabs/vishal-ideyalabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
